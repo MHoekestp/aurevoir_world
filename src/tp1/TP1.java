@@ -21,6 +21,7 @@ public class TP1 {
         //more beans !
         //some rice
         //more rice !
+        //BEANS
     }
     
 }
