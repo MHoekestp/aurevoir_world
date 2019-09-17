@@ -15,6 +15,7 @@ public class TP1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("tp1");
         // TODO code application logic here
         //beans
         //beans
